@@ -8,8 +8,8 @@ const BlogPost = ({ post }) => {
     return (
         <Link href={PathSlugPattern} className="mb-6 md:mb-8">
             <a>
-                <article key={post.id} className="mb-6 md:mb-8">
-                    <header className="flex flex-col justify-between md:flex-row md:items-baseline">
+                <article key={post.id} className="mb-6 md:mb-8 hover:bg-zinc-50">
+                    <header className="flex flex-col justify-between md:flex-row md:items-baseline ">
                         <h2 className="text-lg md:text-xl font-medium mb-2 cursor-pointer text-black dark:text-gray-100">
                             {post.title}
                         </h2>

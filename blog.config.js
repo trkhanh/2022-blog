@@ -2,7 +2,7 @@ const BLOG = {
     title: 'KaoEngine',
     author: 'Khanh Tran',
     email: 'tran_khanh@outlook.com',
-    link: 'https://nobelium.vercel.app',
+    link: 'https://kaoengine.com',
     description: 'This gonna be an awesome place.',
     lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
     appearance: 'auto', // ['light', 'dark', 'auto'],
