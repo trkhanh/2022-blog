@@ -98,7 +98,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
                                         </radialGradient>
                                     </defs>
                                 </svg> */}
-                                <strong>C:\Users\Khanh></strong>
+                                <strong className="text-night dark:text-day" >C:\Users\Khanh></strong>
                             </div>
                         </a>
                     </Link>
