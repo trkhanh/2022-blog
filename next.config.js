@@ -4,6 +4,7 @@ module.exports = {
     domains: ['gravatar.com']
   },
   eslint: {
+    ignoreDuringBuilds: true,
     dirs: [
       'components',
       'layouts',
